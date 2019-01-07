@@ -4,6 +4,7 @@
 |      Update    = 07-January-2019             |
 |      TooL Spam = Telpon    		       |
 |      GitHub    = -			       |
+|      Youtube   = Gebang Kiidiw               |
 |      Info      = Gunakan Dengan Bijak Yee ^_^|
 ------------------------------------------------
 
@@ -118,6 +119,7 @@ echo "------------------------------------------------|             SPAM TELPON 
 |      Athor     = Radja Aditya Chandra        |
 |      Update    = 07-January-2019             ||      TooL Spam = Telpon                      |
 |      GitHub    = -                           |
+|      Youtube   = Gebang Kiidiw               |
 |      Info      = Gunakan Dengan Bijak Yee ^_^|
 ------------------------------------------------\n";
 echo " \n";
