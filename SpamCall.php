@@ -1,11 +1,12 @@
-------------------------------------------------|             SPAM TELPON UNLIMETED            |
-------------------------------------------------
-|      Athor     = Ahmad Sidik        |
-|      Update    = 05-MEI-2019             |
-|      TooL Spam = Telpon    		       |
-|      GitHub    = -			       |
+------------------------------------------------|
+         SPAM TELEPON UNLIMITED                 |
+------------------------------------------------|
+|      Athor     = Ahmad Sidik                  |
+|      Update    = 05-MEI-2019                  |
+|      TooL Spam = Telpon    		        |
+|      GitHub    =~	                        |
 |      Calon     = Siti Nursaidah               |
-|      Info      = Gunakan Dengan Bijak Yee ^_^|
+|      Grup      = Sundanis Community-Config ^_^|
 ------------------------------------------------
 
 <?php
