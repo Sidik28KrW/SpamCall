@@ -1,12 +1,11 @@
-------------------------------------------------|
-         SPAM TELEPON UNLIMITED                 |
-------------------------------------------------|
-|      Athor     = Ahmad Sidik                  |
-|      Update    = 05-MEI-2019                  |
-|      TooL Spam = Telpon    		        |
-|      GitHub    =~	                        |
-|      Calon     = Siti Nursaidah               |
-|      Grup      = Sundanis Community-Config ^_^|
+------------------------------------------------|             SPAM TELPON UNLIMETED            |
+------------------------------------------------
+|      Athor     = Ahmad Sidik                 |
+|      Pacar     = Siti Nursaidah              |
+|      TooL Spam = Telpon    		       |
+|      Grup      = Sundanis		       |
+|      Update    = 05-MEI-2019                 |
+|      Info      = Gunakan Dengan Bijak Yee ^_^|
 ------------------------------------------------
 
 <?php
@@ -117,10 +116,10 @@ class prankcall{
 }
 echo " \n";
 echo "------------------------------------------------|             SPAM TELPON UNLIMETED            |------------------------------------------------
-|      Athor     = Ahmad Sidik        |
-|      Update    = 05-MEI-2019             ||      TooL Spam = Telpon                      |
-|      GitHub    = -                           |
-|      Calon     = Siti Nursaidah               |
+|      Athor     = Ahmad Sidik                 |
+|      Pacar     = Siti Nursaidah              ||      TooL Spam = Telpon                      |
+|      Grup      = Sundanis                    |
+|      Update    = 05-MEI-2019                 |
 |      Info      = Gunakan Dengan Bijak Yee ^_^|
 ------------------------------------------------\n";
 echo " \n";
