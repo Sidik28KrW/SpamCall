@@ -1,10 +1,10 @@
 ------------------------------------------------|             SPAM TELPON UNLIMETED            |
 ------------------------------------------------
-|      Athor     = Radja Aditya Chandra        |
-|      Update    = 07-January-2019             |
+|      Athor     = Ahmad Sidik        |
+|      Update    = 05-MEI-2019             |
 |      TooL Spam = Telpon    		       |
 |      GitHub    = -			       |
-|      Youtube   = Gebang Kiidiw               |
+|      Calon     = Siti Nursaidah               |
 |      Info      = Gunakan Dengan Bijak Yee ^_^|
 ------------------------------------------------
 
@@ -116,10 +116,10 @@ class prankcall{
 }
 echo " \n";
 echo "------------------------------------------------|             SPAM TELPON UNLIMETED            |------------------------------------------------
-|      Athor     = Radja Aditya Chandra        |
-|      Update    = 07-January-2019             ||      TooL Spam = Telpon                      |
+|      Athor     = Ahmad Sidik        |
+|      Update    = 05-MEI-2019             ||      TooL Spam = Telpon                      |
 |      GitHub    = -                           |
-|      Youtube   = Gebang Kiidiw               |
+|      Calon     = Siti Nursaidah               |
 |      Info      = Gunakan Dengan Bijak Yee ^_^|
 ------------------------------------------------\n";
 echo " \n";
